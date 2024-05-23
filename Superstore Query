@@ -32,7 +32,7 @@ SELECT *
 FROM superstore
 ORDER BY price;
 
-#isolate the aveage customer rating of each item.
+#Isolate the aveage customer rating of each item.
 
 SELECT AVG(average_rating), item_name
 FROM superstore
