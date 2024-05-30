@@ -2,8 +2,7 @@
 
 Utilized -- WHERE length(order_id) = 6 AND order_id <> 'Order ID'; to clean up any data as well
 
--- How many order were placed in January?
-
+-- How many order were placed in January? 
 
 SELECT COUNT(orderID) FROM Jansales;
 WHERE length(orderID) = 6 AND orderID <> 'Order ID';
