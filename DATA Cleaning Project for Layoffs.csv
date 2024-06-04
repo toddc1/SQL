@@ -1,4 +1,4 @@
--- DATA Cleaning - The process I took to clean the data. Data avaiable on my GitHUB
+-- DATA Cleaning - The process I took to clean the data on MySQL. Data avaiable on my GitHUB
 
 -- 1 Removed Duplications within the DATA
 -- 2 Standardize the data
